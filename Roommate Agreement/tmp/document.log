@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.3.25)  13 OCT 2012 23:20
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.3.25)  15 OCT 2012 11:18
 entering extended mode
 **document.tex
 ("C:\Users\Dante\workspace\Roommate Agreement\document.tex"
@@ -65,18 +65,20 @@ LaTeX Font Info:    Try loading font information for U+wasy on input line 11.
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 ) [1
 
-{C:/Users/Dante/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{C:/Users/Dante/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+Missing character: There is no “ in font cmr10!
+Missing character: There is no ” in font cmr10!
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 59.
+(Font)              <7> on input line 98.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 59.
- [2] [3]
+(Font)              <5> on input line 98.
+ [3]
 ("C:\Users\Dante\workspace\Roommate Agreement\document.aux") ) 
 Here is how much of TeX's memory you used:
- 420 strings out of 494049
- 4731 string characters out of 3146065
+ 421 strings out of 494049
+ 4738 string characters out of 3146065
  51930 words of memory out of 3000000
- 3772 multiletter control sequences out of 15000+200000
+ 3773 multiletter control sequences out of 15000+200000
  9176 words of font info for 34 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  23i,6n,19p,163b,193s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -85,7 +87,7 @@ Here is how much of TeX's memory you used:
 x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86
 )/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Dante/AppData/R
 oaming/MiKTeX/2.9/fonts/type1/public/wasy/wasy10.pfb>
-Output written on document.pdf (3 pages, 49600 bytes).
+Output written on document.pdf (3 pages, 54139 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
